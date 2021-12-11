@@ -4,7 +4,7 @@
 #include<unistd.h>
 #include<string.h>
 #include<sys/types.h>
-#comment
+#comment who delete my code
 #define DEF_PAGER "/bin/more"
 #define MAXLINE 255
 
