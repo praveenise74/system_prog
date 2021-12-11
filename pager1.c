@@ -4,7 +4,8 @@
 #include<unistd.h>
 #include<string.h>
 #include<sys/types.h>
-#commentprakash
+#
+commentprakash
 #define DEF_PAGER "/bin/more"
 #define MAXLINE 255
 
@@ -81,10 +82,9 @@ else
 #include<unistd.h>
 #include<string.h>
 #include<sys/types.h>
-#comment
+#commentfddhfksdlfhjsdfshadf
 #define DEF_PAGER "/bin/more"
 #define MAXLINE 255
-
 void err_sys(const char* x){
 	perror(x);
 	exit(1);
